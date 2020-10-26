@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Tyler",
            family = "Marshall",
            role = c("aut", "cre"),
-           email = "tmarshall21@amherst.edu"
+           email = "tmarshall21@amherst.edu")
 Description: Everything you might want to know about Disc Golf flying objects
 License: MIT + file LICENSE
 Encoding: UTF-8
