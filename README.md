@@ -1,4 +1,6 @@
 
+![R-CMD-check](https://github.com/Tylermarshall21/DiscGolf/workflows/R-CMD-check/badge.svg)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # DiscGolf
